@@ -1,0 +1,7 @@
+Lucky Gaurav — Resume placeholder
+
+Replace this file with your final resume PDF, for example:
+public/resume/Lucky-Gaurav-Resume.pdf
+
+Then update `resumeUrl` in `src/config/portfolio.js` to:
+/resume/Lucky-Gaurav-Resume.pdf

@@ -1,0 +1,1 @@
+Extract this ZIP, then double-click START-PORTFOLIO.bat. Keep its small window open while viewing the portfolio, and press Ctrl+C there to stop it.
